@@ -2,7 +2,7 @@ let score = "40"
 
 let marksNumber = Number(score)
 console.log(marksNumber);
-console.log(typeof marksNumber);
+console.log(typeof marksNumber;
 
 let grade = "50"
 let cardNumber=Number(grade);

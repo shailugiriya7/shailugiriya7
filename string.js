@@ -3,7 +3,7 @@ const lname = " bhai"
 const say = " aur btawo kaise ho bey"
 
 //console.log(fname + lname+ say);
-console.log('hey my name $ {name} aur hum bhaisahab hai ${lname}');
+console.log'hey my name $ name} aur hum bhaisahab hai ${lname}');
 // new asign string 
 const game = new String('shailesh')
 // console.log(game[0]);
