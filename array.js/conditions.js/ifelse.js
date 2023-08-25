@@ -23,17 +23,17 @@ if (age >= 19) {
     console.log("you are adult+ ")
 }
 
-// +conditional 
-//  const temprature=50
++conditional 
+ const temprature=50
 
-//  if(temprature>=30){
-//     console.log("hot day");
-//  } else if (temprature>=20){
-//     console.log("sweet day");
+ if(temprature>=30){
+    console.log("hot day");
+ } else if (temprature>=20){
+    console.log("sweet day");
 
-//  }else{
-//     console.log("nice day");
-//  }
+ }else{
+    console.log("nice day");
+ }
 
 
 var num = 10;
